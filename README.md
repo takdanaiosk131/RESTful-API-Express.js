@@ -2,7 +2,7 @@
 RESTful API with Express.js 
 
 <h1>API List</h1>
-<table border='1px'>
+<table>
     <tr>
         <th>METHOD</th>
         <th>URI</th>
