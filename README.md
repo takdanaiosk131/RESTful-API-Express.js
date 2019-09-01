@@ -10,27 +10,27 @@ RESTful API with Express.js
     </tr>
     <tr>
         <td>GET</td>
-        <td>/user</td>
+        <td>/api/user</td>
         <td>Get all users</td>
     </tr>
     <tr>
         <td>GET</td>
-        <td>/user/1</td>
+        <td>/api/user/1</td>
         <td>Get user by id</td>
     </tr>
     <tr>
         <td>POST</td>
-        <td>/user</td>
+        <td>/api/user</td>
         <td>Create user</td>
     </tr>
     <tr>
         <td>PUT</td>
-        <td>/user/1</td>
+        <td>/api/user/1</td>
         <td>Update user</td>
     </tr>
     <tr>
         <td>DELETE</td>
-        <td>/user/1</td>
+        <td>/api/user/1</td>
         <td>Delete user</td>
     </tr>
 </table>
