@@ -35,6 +35,6 @@ RESTful API with Express.js
     </tr>
 </table>
 
-<h1>Example Postman</h1>
+<h1>Example Postman1</h1>
 <img src="./api.jpg" />
 
